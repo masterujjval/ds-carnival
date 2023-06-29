@@ -1,11 +1,11 @@
 # ds-carnival
 
-This repo consists of data structures implementation using CPP.
+This repo consists of data structure implementation using CPP.
 
-Data structures are the building block of every programming language and itis crucial for every programmer to learn and master it.
-In this repo you get source code of every data structure in hilarious way to learn and grasp thing quickly.
+Data structures are the building blocks of every programming language and it is crucial for every programmer to learn and master it.
+In this repo, you get the source code of every data structure in a hilarious way to learn and grasp things quickly.
 
-You can copy the src code of the data structure and run it on online compiler or  clone the while file and customize it on suitable IDE
+You can copy the src code of the data structure and run it on the online compiler or  clone the whole file and customize it on a suitable IDE
 customize the src code in your own way and have fun.
 
 ![Screenshot from 2023-06-28 17-13-11](https://github.com/masterujjval/ds-carnival/assets/64778409/0b08c077-1ca8-4a48-abad-9fa6aa51d5c0)
