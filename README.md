@@ -14,5 +14,7 @@ customize the src code in your own way and have fun.
 ---
 ![Screenshot from 2023-06-28 17-13-41](https://github.com/masterujjval/ds-carnival/assets/64778409/a126291d-f11d-4bf1-a7b6-f26978644e4c)
 ---
+Any kind of contributions are welcome you can fork and can make suitable changes in the code.
+If the changes are useful they will get merged.
 
 ***NOTE***-: Remaining data structures will be added later on.
