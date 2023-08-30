@@ -8,6 +8,10 @@ In this repo, you get the source code of every data structure in a hilarious way
 You can copy the src code of the data structure and run it on the online compiler or  clone the whole file and customize it on a suitable IDE
 customize the src code in your own way and have fun.
 
+- Open the file or any data structure you want to execute.
+- Copy the src code and run the code in online compiler or in any IDE
+- Fork to do contribution in this repo.
+
 ![Screenshot from 2023-06-28 17-13-11](https://github.com/masterujjval/ds-carnival/assets/64778409/0b08c077-1ca8-4a48-abad-9fa6aa51d5c0)
 ---
 ![Screenshot from 2023-06-28 17-13-24](https://github.com/masterujjval/ds-carnival/assets/64778409/ec1ee225-3156-4972-a9ac-75344dd9f7d6)
