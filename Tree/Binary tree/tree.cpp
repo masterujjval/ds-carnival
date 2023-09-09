@@ -60,6 +60,7 @@ traverse(temp->right);
 
 
 int main(){
+cout<<" NOTE- ENTER '-1' TO SET THE VALUE OF NODE TO NULL  "<<endl;
 struct node *root;
 root=0;
 root =create();
