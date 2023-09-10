@@ -1,9 +1,26 @@
 # ds-carnival
 
+## About
+
 This repo consists of data structure implementation using CPP.
 
 Data structures are the building blocks of every programming language and it is crucial for every programmer to learn and master it.
 In this repo, you get the source code of every data structure in a hilarious way to learn and grasp things quickly.
+
+## Why C++ for learning data structure?
+
+There are several advantages for using C++ to learn data structure. Some of them are:
+
+- Performance: C++ provides low-level memory control, allowing you to optimize algorithms for maximum speed and efficiency.
+- STL: The Standard Template Library (STL) offers a rich set of pre-implemented data structures and algorithms, saving you time and effort.
+- Syntax: C++ offers a powerful and expressive syntax, making it easy to write efficient DSA code.
+- Portability: Code written in C++ is highly portable, running on different platforms without major modifications.
+- Abundance of Resources: A wealth of tutorials, books, and online courses are available for learning DSA in C++.
+- Compatibility: C++ can be integrated with other languages and technologies as needed.
+- Industry Relevance: C++ is widely used in industries like game development and embedded systems.
+- Competitive Programming: C++ is a favorite among competitive programmers for its speed and concise code.
+
+## How to run the program provided in the repo?
 
 You can copy the src code of the data structure and run it on the online compiler or  clone the whole file and customize it on a suitable IDE
 customize the src code in your own way and have fun.
