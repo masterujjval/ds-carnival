@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+    
     // 1 based indexing node
     int n,m;
     //undirected graph stored using adjacency matrix
